@@ -1,0 +1,8 @@
+cask "zed"
+cask "firefox@developer-edition"
+cask "github"
+cask "dbeaver-community"
+cask "freelens"
+brew "git"
+brew "gh"
+brew "glab"
