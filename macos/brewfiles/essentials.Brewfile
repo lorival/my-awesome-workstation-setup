@@ -1,0 +1,8 @@
+cask "brave-browser"
+cask "keepassxc"
+cask "enpass"
+cask "ente-auth"
+cask "google-drive"
+cask "cryptomator"
+cask "element"
+cask "microsoft-teams"
